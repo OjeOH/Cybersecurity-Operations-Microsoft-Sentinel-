@@ -133,7 +133,7 @@ Create detection rules that generate incidents when suspicious patterns are foun
 2. Filtered rule templates by **Azure Activity**
 3. Selected template: **Suspicious Resource Deployment**
 4. Created a **scheduled analytics rule** from the template
-5. Rule validated and created successfully ✅
+5. Rule validated and created successfully
 
 **Screenshots:**
 
@@ -173,7 +173,7 @@ Reviewed Sentinel's built-in **Fusion rule** — an AI-powered correlation engin
 **Steps:**
 1. Wrote a **KQL query** to scan email logs for suspicious inbox rules
 2. Created a new **Scheduled Analytics Rule** — "Malicious Inbox Rule Detection"
-3. Rule validated and created successfully ✅
+3. Rule validated and created successfully 
 
 **Screenshots:**
 
@@ -238,7 +238,7 @@ Reviewed Sentinel's built-in **Fusion rule** — an AI-powered correlation engin
 | ![](screenshots/image36.png) | ![](screenshots/image37.png) |
 | *Figure 35 — User activity detail* | *Figure 36 — Incident closed as false positive (red team exercise)* |
 
-> 💡 **Real-world skill:** Correctly identifying false positives is as important as finding real threats. Documenting the reason (red team exercise) prevents alert fatigue and helps tune future detection rules.
+>  **Real-world skill:** Correctly identifying false positives is as important as finding real threats. Documenting the reason (red team exercise) prevents alert fatigue and helps tune future detection rules.
 
 ---
 
