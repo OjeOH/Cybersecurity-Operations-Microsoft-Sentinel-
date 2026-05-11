@@ -1,8 +1,6 @@
 # Cybersecurity Operations Management — Lab Portfolio
-### SECU8050 | Conestoga College | Fall 2025
 
-**Student:** Opeoluwa Hezekiah Oje | **ID:** 8917862  
-**Instructor:** Prof. Vinay Puri
+**Opeoluwa Hezekiah Oje**
 
 ---
 
@@ -16,7 +14,7 @@ This repository documents hands-on labs from the Cybersecurity Operations Manage
 
 | # | Lab | Topics | Screenshots |
 |---|-----|--------|-------------|
-| 1 | [Lab 1 — Incident Detection with Microsoft Sentinel](./lab1-incident-detection-sentinel/) | Azure Sentinel setup, data connectors, analytics rules, incident response, threat hunting | 47 |
+| 1 | [Incident Detection with Microsoft Sentinel](./lab1-incident-detection-sentinel/) | Azure Sentinel setup, data connectors, analytics rules, incident response, threat hunting | 47 |
 
 ---
 
