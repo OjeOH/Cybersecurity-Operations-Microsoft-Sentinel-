@@ -62,3 +62,6 @@ cybersecurity-operations-SECU8050/
 - 📧 opeoluwaoje1@gmail.com | [Linkedln](https://www.linkedin.com/in/opeoluwaoje/)
 - 🎓 Conestoga College
 - 📍 Waterloo, Ontario, Canada
+---
+
+*All configurations, screenshots, and reflections in this portfolio represent original work completed in a live lab environment.*
