@@ -1,7 +1,6 @@
-# Lab 1 — Incident Detection with Microsoft Sentinel
+# Incident Detection with Microsoft Sentinel
 
-**Course:** SECU8050 — Cybersecurity Operations Management  
-**Due Date:** October 10, 2025  
+**Cybersecurity Operations Management**   
 [← Back to course overview](../README.md)
 
 ---
